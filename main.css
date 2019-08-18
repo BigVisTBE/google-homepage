@@ -33,7 +33,7 @@ nav#header ul li button.signb {
 h1#TBElogo {
     width: 269px;
     height: 100px;
-    background: url('/images/googlelogo_center.png') top left no-repeat;
+    background: url('images/googlelogo_center.png') top left no-repeat;
     background-size: 100%;
     text-indent: -9999px;  /* This allows you to move the h1 to the side of the page */
     margin: 0 auto;
